@@ -10,7 +10,7 @@ I ended up learning more about MVVM (Model-View-ViewModel) architecture and star
 State Management works in Jetpack Compose.
 
 Here's a walkthrough of the code and how to use the app:
-[Software Demo Video](http://youtube.link.goes.here)
+[Listed Notes App- Kotlin Program](https://www.youtube.com/watch?v=2iFErh2McqM))
 
 # Development Environment
 To develop this app, I used Android Studio. This environment allowed me to use Logcat for 
